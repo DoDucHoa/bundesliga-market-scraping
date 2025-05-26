@@ -1,6 +1,6 @@
 # Bundesliga Market Value Scraper
 
-A powerful tool for scraping and tracking Bundesliga club market values from [Transfermarkt.com](Transfermarkt.com) over time.
+A powerful tool for scraping and tracking Bundesliga club market values from [Transfermarkt.com](https://Transfermarkt.com) over time.
 
 ## Overview
 
